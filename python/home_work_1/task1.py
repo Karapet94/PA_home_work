@@ -1,0 +1,5 @@
+a = int(input('Please entre first num: '))
+b = int(input('Please entre second num: '))
+c = int(input('Please entre third num: '))
+max_value = max(a,b,c)
+print(max_value)

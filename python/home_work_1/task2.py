@@ -1,0 +1,5 @@
+a = int(input('Please entre first num: '))
+b = int(input('Please entre second num: '))
+c = int(input('Please entre third num: '))
+min_value = min(a,b,c)
+print(min_value)

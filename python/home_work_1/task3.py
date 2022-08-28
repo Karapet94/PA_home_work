@@ -1,0 +1,5 @@
+a = int(input('Please entre first num: '))
+b = int(input('Please entre second num: '))
+c = int(input('Please entre third num: '))
+d = int(input('Please entre fourth num: '))
+print("Sum is not equal to 0" if a + b + c + d else min(a,b,c,d))
